@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Calculadora de IMC <img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/2af2e8ff-f42d-49fd-94cd-53c8ee496ff0" width="70px" align="center">
 
 ## Descrição
 Este é um simples projeto de uma calculadora de Índice de Massa Corporal (IMC) desenvolvida utilizando HTML, CSS e JavaScript.
@@ -20,7 +20,7 @@ Esta calculadora permite que os usuários insiram seu peso e altura e, em seguid
 <p align="center">
   <img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/4809f3c7-aa11-43d0-96cd-7a5b9565446c">
 </p>
- 
+
 
 ## Tecnologias e Ferramentas
 <img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/5bbda933-f021-465e-9e6c-0f5afc6e7eaa" width="70px">
@@ -28,5 +28,21 @@ Esta calculadora permite que os usuários insiram seu peso e altura e, em seguid
 <img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/097d7161-7e47-43bf-a2b2-224b18523d92" width="70px">
 
 
+## Acesso ao projeto
+
+você pode acessar [pelo link da página](https://carla11235813.github.io/Calculadora-IMC/), [código fonte](https://github.com/carla11235813/Calculadora-IMC/) ou [baixa-lo](https://github.com/carla11235813/Calculadora-IMC/archive/refs/heads/main.zip)
+
+
+## Abrir e rodar o projeto 
+
+- Abra o arquivo index.html em seu navegador da web.
+
+- Insira seu peso (em quilogramas) e altura (em metros) nos campos correspondentes.
+
+- Clique no botão "Calcular IMC" para ver o resultado.
+
+
 ## Licença
-Este projeto está licenciado sob a licença MIT.
+
+![Static Badge](https://img.shields.io/badge/MIT-%238C36DB?style=for-the-badge&label=license&link=https%3A%2F%2Fgithub.com%2Fcarla11235813%2FCalculadora-IMC%2Fblob%2Fmain%2FLICENSE)
+
