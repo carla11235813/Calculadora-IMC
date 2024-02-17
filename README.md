@@ -23,9 +23,9 @@ Esta calculadora permite que os usuários insiram seu peso e altura e, em seguid
 
 
 ## Tecnologias e Ferramentas
-<img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/5bbda933-f021-465e-9e6c-0f5afc6e7eaa" width="70px">
-<img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/055bfc0e-3e1a-410a-877d-a40e2c10e791" width="70px">
-<img src="https://github.com/carla11235813/Calculadora-IMC/assets/111895486/097d7161-7e47-43bf-a2b2-224b18523d92" width="70px">
+![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000)
 
 
 ## Acesso ao projeto
